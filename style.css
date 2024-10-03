@@ -2,5 +2,9 @@
 
 * {
     font-family: poppins;
-    background-color: rgba(197, 251, 214, 1);
+    background-color: rgb(234, 255, 241);
+}
+
+p {
+    hyphens: auto;
 }
