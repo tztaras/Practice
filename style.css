@@ -7,8 +7,10 @@
 
 h1 {
   text-transform: uppercase;
-  font-weight: 900;
+  /* font-weight: 900; */
   font-style: italic;
+  text-shadow: 2px 2px 5px rgba(43, 183, 169, 0.396);
+  font-size: 44px;
 }
 
 .container {
