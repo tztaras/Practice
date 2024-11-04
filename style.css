@@ -15,7 +15,8 @@ h1 {
   background: none;
 }
 
-h2 {
+h2,
+.powder {
   background: none;
 }
 .container {
