@@ -1,2 +1,2 @@
 (C2H3Cl)n — Polyvinyl chloride
-HNO3
+HNO3 C S
